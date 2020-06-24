@@ -6,3 +6,6 @@ console.log('第4 次');
 console.log('第5 次');
 console.log('第666 次');
 console.log('第777 次');
+console.log('第6 次');
+console.log('第7iii 次');
+console.log('第8iii 次');
